@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jlinnnn, currently pursuing my Masters in data science and analytics. 
+- 👋 Hi, I’m @jlinnnn, this is a culmination of my coding journey
 - ☁️ I code & stuff
 - 👨🏻‍🏫 In my data science training arc
 
