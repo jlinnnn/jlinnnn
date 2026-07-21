@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=CDD6F4&center=true&vCenter=true&width=900&height=60&v=3&lines=Go+alone+to+places+frightening+to+the+common+brand+of+men+🏯;%E2%80%94+Miyamoto+Musashi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=CDD6F4&center=true&vCenter=true&width=900&height=60&v=3&lines=Go+alone+to+places+frightening+to+the+common+brand+of+men;%E2%80%94+Miyamoto+Musashi" alt="Typing SVG" />
 </p>
 
 ---
