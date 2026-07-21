@@ -31,7 +31,7 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-CDD6F4?style=for-the-badge)
 ![Open to Collab](https://img.shields.io/badge/Open%20to-Collaboration-A6E3A1?style=for-the-badge)
 
-Got a project that needs a second pair of hands — especially anything data, Python, or viz? **Open an issue on one of my repos or drop me a line.** Always happy to jump into something interesting.
+Got a project that needs a second pair of hands; especially anything data, Python, or viz? Always happy to jump into something interesting.
 
 ---
 
