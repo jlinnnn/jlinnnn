@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Alteryx-0078C8?style=for-the-badge&logo=alteryx&logoColor=white" alt="Alteryx" />
 </p>
 
-**📍 Interested in:** deep learning, augmented reality, automation, blockchain, spatial computing, renewable energy, games, puzzles, space, sports, mathematics, storytelling, animation, drawing, robotics, literature, medicine, fashion design, cybersecurity, and more …
+**📍 Into:** deep learning, robotics, automation *(building)* — spatial computing, renewable energy, medicine *(watching)* — games, literature, storytelling, mathematics, animation *(for fun)*
 
 ---
 
