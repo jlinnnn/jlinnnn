@@ -24,8 +24,20 @@
 
 **📍 Interested in:** deep learning, augmented reality, automation, blockchain, spatial computing, renewable energy, games, puzzles, space, sports, mathematics, storytelling, animation, drawing, robotics, literature, medicine, fashion design, cybersecurity, and more …
 
-**🏫** Open to collaborating on Open Source Projects
+---
+
+### 🤝 Open to collaborating on open source
+
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-CDD6F4?style=for-the-badge)
+![Open to Collab](https://img.shields.io/badge/Open%20to-Collaboration-A6E3A1?style=for-the-badge)
+
+Got a project that needs a second pair of hands — especially anything data, Python, or viz? **Open an issue on one of my repos or drop me a line.** Always happy to jump into something interesting.
 
 ---
 
-**📳 Contact:** jl3205@georgetown.edu · +1 (631) 813-0971
+### 📫 Reach me
+
+<p align="center">
+  <a href="mailto:jl3205@georgetown.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
