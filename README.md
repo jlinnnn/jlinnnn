@@ -22,7 +22,11 @@
   <img src="https://img.shields.io/badge/Alteryx-0078C8?style=for-the-badge&logo=alteryx&logoColor=white" alt="Alteryx" />
 </p>
 
-**📍 Into:** deep learning, robotics, automation *(building)* — spatial computing, renewable energy, medicine *(watching)* — games, literature, storytelling, mathematics, animation *(for fun)*
+**📍 What I'm into**
+
+- **Building:** deep learning · robotics · automation
+- **Watching:** spatial computing · renewable energy · medicine
+- **For fun:** games · literature · storytelling
 
 ---
 
