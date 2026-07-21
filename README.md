@@ -26,7 +26,7 @@
 
 ---
 
-### 🤝 Open to collaborating on open source
+### 🤝 Open Source
 
 ![Open to Collab](https://img.shields.io/badge/Open%20to-Collaboration-A6E3A1?style=for-the-badge)
 
